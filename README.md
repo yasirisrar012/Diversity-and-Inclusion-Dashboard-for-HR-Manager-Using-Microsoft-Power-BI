@@ -15,9 +15,9 @@ b. Executive Gender Balance
 c. Age Group of Employees at different positions.
 
 The following measures helped to define proper KPIs-
-1) # of men
-2) # of women
-3) # of leavers
+1) Number of men
+2) Number of women
+3) Number of leavers
 4) % employees promoted (FY21)
 5) % of women promoted
 6) % of hires men
