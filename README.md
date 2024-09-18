@@ -1,7 +1,7 @@
 # Diversity and Inclusion Dashboard for HR Manager Using Microsoft Power BI
 The diversity and inclusion dataset is provided in .xlsx format by the client who is a HR Manager from a big telecom company. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. The task was to define relevant KPIs in hiring, promotion, performance, turnover and create a visualization in the form of Power BI dashboard to understand root causes of their slow progress.
 Approach-
-1) Raw data collection in data in .xlsx format
+1) Raw data collection in .xlsx format provided by HR Manager
 2) Feature engineering by adding new measures using DAX formulas
 3) Data visualization using visuals and KPIs.
 
